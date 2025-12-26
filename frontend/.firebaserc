@@ -1,5 +1,15 @@
 {
   "projects": {
-    "default": "email-password-auth-c4d19"
-  }
+    "default": "fiery-bay-437809-h2"
+  },
+  "targets": {
+    "simple-firebase-auth-c7621": {
+      "hosting": {
+        "simple-firebase-auth-c7621": [
+          "simple-firebase-auth-c7621"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }

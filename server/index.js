@@ -21,8 +21,8 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://email-password-auth-c4d19.web.app",
-      "https://email-password-auth-c4d19.firebaseapp.com",
+      "fiery-bay-437809-h2.firebaseapp.com",
+      "fiery-bay-437809-h2.web.app", 
     ],
     credentials: true,
     optionSuccessStatus: 200,

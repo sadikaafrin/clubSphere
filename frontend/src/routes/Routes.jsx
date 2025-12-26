@@ -164,16 +164,7 @@ export const router = createBrowserRouter([
           </PrivateRoute>
         ),
       },
-      //     {
-      //       path: "seller-request",
-      //       element: (
-      //         <PrivateRoute>
-      //           <AdminRoute>
-      //             <SellerRequest />
-      //           </AdminRoute>
-      //         </PrivateRoute>
-      //       ),
-      //     },
+    
       {
         path: "profile",
         element: (
@@ -207,15 +198,5 @@ export const router = createBrowserRouter([
         ),
       },
     ],
-    //     {
-    //       path: "manage-orders",
-    //       element: (
-    //         <PrivateRoute>
-    //           <ManagerRoute>
-    //             <ManageOrders />
-    //           </ManagerRoute>
-    //         </PrivateRoute>
-    //       ),
-    //     },
   },
 ]);
